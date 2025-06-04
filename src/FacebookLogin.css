@@ -1,0 +1,121 @@
+/* FacebookLogin.css */
+
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+.fb-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: 5px;
+}
+
+.fb-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 980px;
+}
+
+.fb-left {
+  max-width: 500px;
+}
+
+.fb-logo {
+  width: 320.91px;
+  height: 105.99px;
+  color: #1877f2;
+  margin: 0;
+  font-weight: bold;
+}
+
+.fb-message {
+  font-size: 28px;
+  line-height: 32px;
+  margin-top: 20px;
+}
+
+.fb-right {
+  width: 395.99px;
+  height: 315.22;
+}
+
+.fb-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+}
+
+.fb-card input {
+  width: 90%;
+  padding: 14px;
+  margin-bottom: 12px;
+  font-size: 17px;
+  border: 1px solid #dddfe2;
+  border-radius: 6px;
+  background-color: #f5f6f7;
+}
+
+.login-btn {
+  width: 100%;
+  background-color: #1877f2;
+  color: white;
+  font-weight: bold;
+  padding: 14px;
+  font-size: 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.login-btn:hover {
+  background-color: #166fe5;
+}
+
+.forgot-link {
+  display: block;
+  text-align: center;
+  margin: 12px 0;
+  color: #1877f2;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #dadde1;
+  margin: 20px 0;
+}
+
+.create-btn {
+  background-color: #42b72a;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 12px;
+  width: 189.78px;
+  height: 47.99px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-left: 25%;
+}
+
+.create-btn:hover {
+  background-color: #36a420;
+}
+
+.page-link {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 28px;
+}
