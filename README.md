@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+# To see the real time data base code go to the branch rtdb
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
